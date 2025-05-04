@@ -1,15 +1,29 @@
 {
-  "name": "patterns",
+  "name": "patterns-on-typescript",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "patterns",
+    "typescript",
+    "pattern",
+    "doc",
+    "documentation",
+    "learn",
+    "example",
+    "javascript",
+    "mdn"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Simfort/patterns-on-typescript"
+  },
+  "author": "simfart lemondzavadavid265@gmail.com",
   "license": "ISC",
   "devDependencies": {
     "typescript": "5.8.3"
   },
-  "description": ""
+  "description": "Patterns on the typescript"
 }
